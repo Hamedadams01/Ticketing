@@ -11,11 +11,11 @@ A user (Sarah Johnson) submitted a ticket on **Spiceworks** stating that her acc
 - The user logged into Windows 11, was prompted to change her password, and successfully signed in
 - The tech logged an **internal note** in Spiceworks documenting the action taken, then changed the ticket status from **Open to Closed**
 
-- [images alt]()
-- [images alt]()
-- [images alt]()
-- [images alt]()
-- [images alt]()
-- [images alt]()
-- [images alt]()
-- [images alt]()
+![images alt]()
+![images alt]()
+![images alt]()
+![images alt]()
+![images alt]()
+![images alt]()
+![images alt]()
+![images alt]()
